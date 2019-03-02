@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{530CF01A-5EC1-461E-8CD2-1EFB7B3F9922}|Default">
+  <MonoDevelop.Ide.ItemProperties.RotationApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.ItemProperties.RotationApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RotationApp/MainPage.xaml">
+    <Files>
+      <File FileName="RotationApp/MainPage.xaml" Line="14" Column="42" />
+      <File FileName="RotationApp/MainPage.xaml.cs" Line="17" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RotationApp" expanded="True" selected="True">
+            <Node name="RotationApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

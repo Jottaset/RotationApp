@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RotationApp"
+             x:Class="RotationApp.MainPage"
+             >
+    
+    <StackLayout BackgroundColor="Gray" >
+        
+        <Slider VerticalOptions="CenterAndExpand"/>
+        
+        <Label Text="Estavel"
+               FontSize="20"
+               TextColor="White"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               x:Name="label_rotation"
+               FontAttributes="Bold"
+               
+               
+               />
+        
+     <StackLayout HorizontalOptions="Center"
+                     Orientation="Horizontal"
+                  >
+        
+        <Button Text="Adiciona"
+                WidthRequest="150"
+                HeightRequest="80"
+                HorizontalOptions="Start"
+                VerticalOptions="Start"
+                Clicked="AdicionarValor"
+                
+                />
+        
+        <Button Text="Subtrai"
+                WidthRequest="150"
+                HeightRequest="80"
+                HorizontalOptions="Start"
+                VerticalOptions="Start"
+                Clicked="SubtrairValor"
+               
+               />
+        </StackLayout>
+            
+    </StackLayout>
+</ContentPage>
